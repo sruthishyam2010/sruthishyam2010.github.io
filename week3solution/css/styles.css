@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar-header {
+  background-color: rgb(83, 81, 81);
+}
+
+.navbar-collapse {
+  text-align: center;
+  background-color: rgb(83, 81, 81);
+  color: rgb(0, 0, 0);
+}
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-nav {
+  background-color: yellow;
+}
+.text-center {
+  font-size: 230%;
+}
+.col-sm-12 {
+  height: 70vh;
+  background-color: aqua;
+  margin-top: 30px;
+  padding: 10px;
+}
+.row {
+  margin: 0px;
+  margin-top: 10px;
+}
